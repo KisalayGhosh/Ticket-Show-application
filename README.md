@@ -1,7 +1,3 @@
-
-
-Certainly! Here's an example of what your `readme.md` file could contain:
-
 # Website Management Application
 
 This is a website management application built using Flask, a Python web framework. The application allows users to sign up, log in, and interact with various features depending on their role (user or admin).
@@ -55,7 +51,3 @@ Feel free to modify and customize the application to suit your specific needs.
 
 Arunangshu Das | Kisalay Ghosh
 arunangshu@arunangshu.in | 
-
-Replace "Your Name" and "Your Email" with your actual name and email address.
-
-Please note that the `readme.md` file is just an example, and you should customize it based on your project's requirements and additional information you want to provide.
