@@ -50,4 +50,3 @@ Feel free to modify and customize the application to suit your specific needs.
 ## Author
 
 Arunangshu Das | Kisalay Ghosh
-arunangshu@arunangshu.in | 
