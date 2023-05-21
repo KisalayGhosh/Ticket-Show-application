@@ -1,4 +1,4 @@
-# Website Management Application
+# Ticket Show Application
 
 This is a website management application built using Flask, a Python web framework. The application allows users to sign up, log in, and interact with various features depending on their role (user or admin).
 
